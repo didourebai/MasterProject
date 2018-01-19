@@ -1,0 +1,11 @@
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.csproj.CoreCompileInputs.cache
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.App.xaml.g.cs
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.AssemblyInfoInputs.cache
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.AssemblyInfo.cs
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\MasterDetailPage.deps.json
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\MasterDetailPage.dll
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\bin\Debug\netstandard2.0\MasterDetailPage.pdb
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.dll
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.pdb
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.Views.MainPage.xaml.g.cs
+D:\MasterDetailPage\MasterDetailPage\MasterDetailPage\obj\Debug\netstandard2.0\MasterDetailPage.csprojResolveAssemblyReference.cache
